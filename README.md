@@ -27,4 +27,4 @@ Relays for switching appliances. Servo motors for door locks. LED lights or smar
 
 Software Arduino IDE for programming. Cloud platforms like Firebase or Blynk for IoT integration. Mobile app frameworks (e.g., MIT App Inventor) for interface design.
 
-Output pic:
+Output pic:https://github.com/user-attachments/assets/a52e0db1-1b4f-48d9-b002-54fd0dce72f0
